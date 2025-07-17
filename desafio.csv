@@ -1,0 +1,6 @@
+nome,idade,cidade,profissao,salario,experiencia_anos,nivel_educacao,status_emprego,data_contratacao,departamento
+João Silva,28,São Paulo,Desenvolvedor,5500,3,Superior,Ativo,2021-03-15,TI
+Maria Santos,32,Rio de Janeiro,Designer,4200,5,Superior,Ativo,2020-07-22,Marketing
+Carlos Oliveira,45,Belo Horizonte,Gerente,8500,12,Pós-graduação,Ativo,2018-11-10,Vendas
+Ana Costa,29,Porto Alegre,Analista,3800,2,Superior,Inativo,2022-01-08,Financeiro
+Pedro Lima,35,Fortaleza,Desenvolvedor,7200,8,Superior,Ativo,2019-05-18,TI
